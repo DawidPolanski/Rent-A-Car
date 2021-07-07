@@ -1,0 +1,16 @@
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\Rent A Car.exe
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\Rent A Car.deps.json
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\Rent A Car.runtimeconfig.json
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\Rent A Car.runtimeconfig.dev.json
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\Rent A Car.dll
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\ref\Rent A Car.dll
+C:\Users\Dawid\source\repos\Rent A Car\bin\Debug\net5.0\Rent A Car.pdb
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.csproj.AssemblyReference.cache
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.dll
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\ref\Rent A Car.dll
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.pdb
+C:\Users\Dawid\source\repos\Rent A Car\obj\Debug\net5.0\Rent A Car.genruntimeconfig.cache
